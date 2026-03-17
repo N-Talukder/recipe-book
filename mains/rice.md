@@ -1,3 +1,4 @@
 1. Wash rice
-2. Boil rice
-3. Serve
+2. Add water
+3. Boil rice
+4. Serve
